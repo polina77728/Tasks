@@ -1,0 +1,15 @@
+C:\Users\79628\Desktop\Homework\62_task_spiral\bin\Debug\net6.0\62_task_spiral.exe
+C:\Users\79628\Desktop\Homework\62_task_spiral\bin\Debug\net6.0\62_task_spiral.deps.json
+C:\Users\79628\Desktop\Homework\62_task_spiral\bin\Debug\net6.0\62_task_spiral.runtimeconfig.json
+C:\Users\79628\Desktop\Homework\62_task_spiral\bin\Debug\net6.0\62_task_spiral.dll
+C:\Users\79628\Desktop\Homework\62_task_spiral\bin\Debug\net6.0\62_task_spiral.pdb
+C:\Users\79628\Desktop\Homework\62_task_spiral\obj\Debug\net6.0\62_task_spiral.csproj.AssemblyReference.cache
+C:\Users\79628\Desktop\Homework\62_task_spiral\obj\Debug\net6.0\62_task_spiral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79628\Desktop\Homework\62_task_spiral\obj\Debug\net6.0\62_task_spiral.AssemblyInfoInputs.cache
+C:\Users\79628\Desktop\Homework\62_task_spiral\obj\Debug\net6.0\62_task_spiral.AssemblyInfo.cs
+C:\Users\79628\Desktop\Homework\62_task_spiral\obj\Debug\net6.0\62_task_spiral.csproj.CoreCompileInputs.cache
+C:\Users\79628\Desktop\Homework\62_task_spiral\obj\Debug\net6.0\62_task_spiral.dll
+C:\Users\79628\Desktop\Homework\62_task_spiral\obj\Debug\net6.0\refint\62_task_spiral.dll
+C:\Users\79628\Desktop\Homework\62_task_spiral\obj\Debug\net6.0\62_task_spiral.pdb
+C:\Users\79628\Desktop\Homework\62_task_spiral\obj\Debug\net6.0\62_task_spiral.genruntimeconfig.cache
+C:\Users\79628\Desktop\Homework\62_task_spiral\obj\Debug\net6.0\ref\62_task_spiral.dll
