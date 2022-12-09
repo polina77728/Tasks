@@ -1,0 +1,15 @@
+C:\Users\79628\Desktop\Homework\60_task_3Matr\bin\Debug\net6.0\60_task_3Matr.exe
+C:\Users\79628\Desktop\Homework\60_task_3Matr\bin\Debug\net6.0\60_task_3Matr.deps.json
+C:\Users\79628\Desktop\Homework\60_task_3Matr\bin\Debug\net6.0\60_task_3Matr.runtimeconfig.json
+C:\Users\79628\Desktop\Homework\60_task_3Matr\bin\Debug\net6.0\60_task_3Matr.dll
+C:\Users\79628\Desktop\Homework\60_task_3Matr\bin\Debug\net6.0\60_task_3Matr.pdb
+C:\Users\79628\Desktop\Homework\60_task_3Matr\obj\Debug\net6.0\60_task_3Matr.csproj.AssemblyReference.cache
+C:\Users\79628\Desktop\Homework\60_task_3Matr\obj\Debug\net6.0\60_task_3Matr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79628\Desktop\Homework\60_task_3Matr\obj\Debug\net6.0\60_task_3Matr.AssemblyInfoInputs.cache
+C:\Users\79628\Desktop\Homework\60_task_3Matr\obj\Debug\net6.0\60_task_3Matr.AssemblyInfo.cs
+C:\Users\79628\Desktop\Homework\60_task_3Matr\obj\Debug\net6.0\60_task_3Matr.csproj.CoreCompileInputs.cache
+C:\Users\79628\Desktop\Homework\60_task_3Matr\obj\Debug\net6.0\60_task_3Matr.dll
+C:\Users\79628\Desktop\Homework\60_task_3Matr\obj\Debug\net6.0\refint\60_task_3Matr.dll
+C:\Users\79628\Desktop\Homework\60_task_3Matr\obj\Debug\net6.0\60_task_3Matr.pdb
+C:\Users\79628\Desktop\Homework\60_task_3Matr\obj\Debug\net6.0\60_task_3Matr.genruntimeconfig.cache
+C:\Users\79628\Desktop\Homework\60_task_3Matr\obj\Debug\net6.0\ref\60_task_3Matr.dll
