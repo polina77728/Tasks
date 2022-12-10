@@ -1,0 +1,15 @@
+C:\Users\79628\Desktop\Homework\64_task_recurs\obj\Debug\net6.0\64_task_recurs.csproj.AssemblyReference.cache
+C:\Users\79628\Desktop\Homework\64_task_recurs\obj\Debug\net6.0\64_task_recurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79628\Desktop\Homework\64_task_recurs\obj\Debug\net6.0\64_task_recurs.AssemblyInfoInputs.cache
+C:\Users\79628\Desktop\Homework\64_task_recurs\obj\Debug\net6.0\64_task_recurs.AssemblyInfo.cs
+C:\Users\79628\Desktop\Homework\64_task_recurs\obj\Debug\net6.0\64_task_recurs.csproj.CoreCompileInputs.cache
+C:\Users\79628\Desktop\Homework\64_task_recurs\bin\Debug\net6.0\64_task_recurs.exe
+C:\Users\79628\Desktop\Homework\64_task_recurs\bin\Debug\net6.0\64_task_recurs.deps.json
+C:\Users\79628\Desktop\Homework\64_task_recurs\bin\Debug\net6.0\64_task_recurs.runtimeconfig.json
+C:\Users\79628\Desktop\Homework\64_task_recurs\bin\Debug\net6.0\64_task_recurs.dll
+C:\Users\79628\Desktop\Homework\64_task_recurs\bin\Debug\net6.0\64_task_recurs.pdb
+C:\Users\79628\Desktop\Homework\64_task_recurs\obj\Debug\net6.0\64_task_recurs.dll
+C:\Users\79628\Desktop\Homework\64_task_recurs\obj\Debug\net6.0\refint\64_task_recurs.dll
+C:\Users\79628\Desktop\Homework\64_task_recurs\obj\Debug\net6.0\64_task_recurs.pdb
+C:\Users\79628\Desktop\Homework\64_task_recurs\obj\Debug\net6.0\64_task_recurs.genruntimeconfig.cache
+C:\Users\79628\Desktop\Homework\64_task_recurs\obj\Debug\net6.0\ref\64_task_recurs.dll
