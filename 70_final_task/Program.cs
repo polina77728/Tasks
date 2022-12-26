@@ -4,7 +4,7 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → [] */
 
-string[] array = new string[4] {"Hello", "2", "world", ":-)"};
+string[] array = new string[5] {"Hello", "2", "world", ":-)" , "456" };
 string[] array2 = new string[array.Length];
 
 int length = 3;
@@ -19,12 +19,12 @@ for (int i = 0; i < array.Length; i++)
     }
 }
 
+Console.WriteLine();
+WriteArray(array);
+Console.WriteLine();
+WriteArray(array2);
 
-int ReadInt(string message)
-{
-    Console.Write(message);
-    return Convert.ToInt32(Console.ReadLine());
-}
+
 
 void WriteArray(string[] array)
 {
